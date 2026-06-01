@@ -1,4 +1,4 @@
-# Thomas Stephan Juzek
+# Welcome! 
 
 **Computational linguist · Florida State University.** Interests: AI language choices, mechanisms behind it, influence on human language. 
 
