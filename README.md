@@ -1,8 +1,7 @@
 # Thomas Stephan Juzek
 
 **Computational linguist · Florida State University.** I study **AI-associated language
-change**: how large language models such as ChatGPT may be influencing the words people use,
-in English and across 34+ languages.
+change**: how large language models and their language use interact with human language use.
 
 🌐 [tjuzek.com](https://tjuzek.com) · 🔬 [Google Scholar](https://scholar.google.com/citations?user=ETFTr6sAAAAJ) · 🆔 [ORCID](https://orcid.org/0000-0002-3204-3879) · 🧪 [AI Word Explorer](https://www.aiwordexplorer.com/) · ✉️ tjuzek@fsu.edu
 
@@ -26,4 +25,6 @@ Why AI systems overuse certain words (e.g. *delve*, *underscore*, *intricate*), 
 preference-stage training shapes those choices, and whether AI is associated with stylistic
 homogenisation across languages and registers.
 
-> Looking to collaborate, or to work with me as a student? See [tjuzek.com](https://tjuzek.com) or email me.
+---
+
+Questions, or interested in working with me? See [tjuzek.com](https://tjuzek.com) or email me.
