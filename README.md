@@ -1,7 +1,6 @@
 # Thomas Stephan Juzek
 
-**Computational linguist · Florida State University.** I study **AI-associated language
-change**: how large language models and their language use interact with human language use.
+**Computational linguist · Florida State University.** Interests: AI language choices, mechanisms behind it, influence on human language. 
 
 🌐 [tjuzek.com](https://tjuzek.com) · 🔬 [Google Scholar](https://scholar.google.com/citations?user=ETFTr6sAAAAJ) · 🆔 [ORCID](https://orcid.org/0000-0002-3204-3879) · 🧪 [AI Word Explorer](https://www.aiwordexplorer.com/) · ✉️ tjuzek@fsu.edu
 
@@ -19,11 +18,6 @@ change**: how large language models and their language use interact with human l
   Influence of Learning from Human Feedback* (BIAS 2025 @ ECML-PKDD, [arXiv:2508.01930](https://arxiv.org/abs/2508.01930)).
 - **[sad](https://github.com/tjuzek/sad)**: the Syntactic Acceptability Dataset, with the
   accompanying paper and rating-website code.
-
-### What I work on
-Why AI systems overuse certain words (e.g. *delve*, *underscore*, *intricate*), how
-preference-stage training shapes those choices, and whether AI is associated with stylistic
-homogenisation across languages and registers.
 
 ---
 
